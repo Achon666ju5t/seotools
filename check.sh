@@ -1,12 +1,6 @@
-#!/bin.bash
-#coded by Achon666ju5t
-#Traffic Checker with alexa rank 
 #!/bin/bash
-#checker traffic website 
-#coded By Extreme Crew
-#this checker is daily update 
-#i give 1 month trial
-#if you want this tools whitout daily update, please message me on : esdnaomi@gmail.com
+#coded by Achon666ju5t
+#Small seo tools from indonesian kid 
 putih='\033[0m'
 ijo='\e[38;5;82m'
 merah='\e[38;5;196m'
